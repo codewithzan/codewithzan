@@ -1,4 +1,4 @@
-[![MasterHead](https://www.dreamhost.com/blog/wp-content/uploads/2018/09/elements-web-design-opt.jpg)]
+[![MasterHead](https://fedingo.com/wp-content/uploads/2021/05/change-default-home-page-.htaccess.jpg)]
 <h1 align="center">Hi 👋, I'm Bijan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif">
