@@ -1,5 +1,5 @@
 [![MasterHead](https://fedingo.com/wp-content/uploads/2021/05/change-default-home-page-.htaccess.jpg)]
-<h1 align="center">Hi 👋, I'm Bijan</h1>
+<h1 align="center">Hi Codewithzan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <img align="right" width="400" src="https://miro.medium.com/max/1785/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zanrai94&label=Profile%20views&color=0e75b6&style=flat" alt="zanrai94" /> </p>
