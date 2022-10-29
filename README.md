@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, Node js**
 
-- 📝 I regularly write articles on [https://www.codewithzan.ga](https://www.bijanrai.com.np)
+- 📝 I regularly write articles on [https://www.bijanrai.com.np](https://www.bijanrai.com.np)
 
 - 💬 Ask me about **Html, Css, JavaScript, tailwind CSS, bootstrap, PHP**
 
